@@ -109,7 +109,7 @@
         <label>Active</label>
         <picklist>
             <picklistValues>
-                <fullName>Nope</fullName>
+                <fullName>No</fullName>
                 <default>false</default>
             </picklistValues>
             <picklistValues>
